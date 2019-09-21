@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">UserAddressMapV3</string>
+    <string name="title_activity_maps">Map User Location</string>
+    <string name="search_location">Search Location</string>
+    <string name="search">Search</string>
+
+</resources>
